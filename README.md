@@ -1,3 +1,5 @@
+# TL;DR
+
 This project consists of multiple modules:
 - **neural_network** is the more important, and it contains what is needed to develop and run a Neural Network:
     - **neural_net.py** contains the core functionalities for the neural netowrk, i.e. fit, evaluate, backpropagation, gradient_computation, ... ;
